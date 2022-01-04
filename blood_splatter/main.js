@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
       var circlex = Math.floor(Math.random()*50);
       var circley = Math.floor(Math.random()*50);
       var circle = document.createElementNS(NS, "circle");
-      console.log(circle);
       circle.setAttribute("cx", circlex);
       circle.setAttribute("cy", circley );
       circle.setAttribute("r", Math.random()/5);
