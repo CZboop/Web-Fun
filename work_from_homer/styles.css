@@ -1,0 +1,9 @@
+body {
+    font-family: 'VT323', monospace;
+    color: #39ff14;
+    background-color: black;
+    font-size: 2vw;
+}
+p, h1, h2, h3{
+    margin: 5%;
+}
